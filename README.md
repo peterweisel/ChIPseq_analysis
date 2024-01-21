@@ -6,13 +6,13 @@ This repository contains scripts for the analysis of ChIP-seq data for the Cut14
 
 ## Scripts
 
-1. [bowtie2_mapping_alignment.sh](ChIPseq_analysis/bowtie2_mapping_alignment.sh): Shell script for aligning paired-end ChIP-seq FASTQ files to the Bowtie2 reference genome.
+1. [bowtie2_mapping_alignment.sh]: Shell script for aligning paired-end ChIP-seq FASTQ files to the Bowtie2 reference genome.
 
-2. [PeakCalling_MACS2.sh](ChIPseq_analysis/PeakCalling_MACS2.sh): Shell script for performing peak calling using MACS2 on ChIP-seq treatment and control samples.
+2. [PeakCalling_MACS2.sh]: Shell script for performing peak calling using MACS2 on ChIP-seq treatment and control samples.
 
-3. [average_score_groups.sh](ChIPseq_analysis/average_score_groups.sh): Shell script for quantifying protein binding across different genes based on expression levels.
+3. [average_score_groups.sh]: Shell script for quantifying protein binding across different genes based on expression levels.
 
-4. [average_score_pol2_groups.R](ChIPseq_analysis/average_score_pol2_groups.R): R script for visualizing average protein binding at RNAP2 transcribed genes based on location.
+4. [average_score_pol2_groups.R]: R script for visualizing average protein binding at RNAP2 transcribed genes based on location.
 
 ## Results
 
