@@ -17,3 +17,5 @@ This repository contains scripts for the analysis of ChIP-seq data for the Cut14
 ## Results
 
 <img width="726" alt="Cut14_expression_gp" src="https://github.com/peterweisel/ChIPseq_analysis/assets/116852337/6c0bd64e-1871-4fc7-bef8-49ab240c0b70">
+
+![image](https://github.com/peterweisel/ChIPseq_analysis/assets/116852337/5059000b-216a-41d9-aef0-611650baaa65)
