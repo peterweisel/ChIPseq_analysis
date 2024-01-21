@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains scripts for the analysis of ChIP-seq data for the Cut14 protein in fission yeast. The analysis includes Bowtie2 alignment, peak calling, and quantification of protein binding across different genes based on expression levels.
+This repository contains scripts for the analysis of ChIP-seq data for the Cut14 protein in fission yeast. The analysis includes Bowtie2 alignment, peak calling, and quantification of protein binding across RNA polymerase II transcribed genes.
 
 ## Scripts
 
