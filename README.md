@@ -16,7 +16,9 @@ This repository contains scripts for the analysis of ChIP-seq data for the Cut14
 
 ## Results
 
+Average score of protein binding of Cut14 across RNA polymerase II transcribed genes of differing expression levels
 <img width="726" alt="Cut14_expression_gp" src="https://github.com/peterweisel/ChIPseq_analysis/assets/116852337/6c0bd64e-1871-4fc7-bef8-49ab240c0b70">
 
+Genome coverage of Cut14 across fission yeast genome
 <img width="726" alt="IGV_Cut14" src="https://github.com/peterweisel/ChIPseq_analysis/assets/116852337/74cb3469-5a85-4d35-aa9b-b5682c8856f5">
 
