@@ -20,10 +20,10 @@ module load ucsc-userapps/20191024
 
 ### assign directories
 DIR_DATA=/projects/nomalab/pweisel/ChIPseq_analysis/data
-DIR_REF=/projects/nomalab/pweisel/ChIPseq_analysis/genes/expression_groups #good
+DIR_REF=/projects/nomalab/pweisel/ChIPseq_analysis/genes/expression_groups
 LOG_FILE=${DIR_DATA}/ave_score/log.txt 
 
-### assign group and sample names
+### declare group and sample names
 declare -a lst=("GROUP_1" "GROUP_2" "GROUP_3" "GROUP_4" "GROUP_5" "GROUP_6" "GROUP_7" "GROUP_8" "GROUP_9" "GROUP_10")
 declare -a samples=("Cut14Pk")
 
