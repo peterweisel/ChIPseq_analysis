@@ -11,7 +11,7 @@
 
 # Author: Peter Joseph Weisel
 # Affiliation: Noma Laboratory at the University of Oregon
-# Description: This script uses aligns Paired-end ChIP-seq FASTQ files to the Bowtie2 reference genome of Schizosaccharomyces pombe.
+# Description: This script aligns Paired-end ChIP-seq FASTQ files to the Bowtie2 reference genome of Schizosaccharomyces pombe.
 #              It is designed to run on the University of Oregon Talapas HPC cluster using SLURM job scheduler.
 # Date: 01/20/2024
 
