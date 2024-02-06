@@ -22,6 +22,7 @@ module load eb-hide/1  icc/2017.1.132-GCC-6.3.0-2.27  impi/2017.1.132
 module load eb-hide/1  ifort/2017.1.132-GCC-6.3.0-2.27  impi/2017.1.132
 module load SAMtools/1.8
 module load miniconda
+module load bowtie2/2.4.4
 
 ### assign directories 
 DIR_WORK=/projects/nomalab/pweisel/ChIPseq_analysis
